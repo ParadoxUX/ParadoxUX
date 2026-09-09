@@ -1,35 +1,29 @@
 # Привет! Я ParadoxUX :)
 
+<div align="center">
+
+<!-- Анимированная шапка -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=180&section=header&text=ParadoxUX&fontSize=42&fontColor=7aa2f7&animation=fadeIn" width="100%" alt="Header" />
+
+<!-- Динамическая строка специализации -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Frontend+%26+Backend+Developer;Building+useful+tools;Always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=7aa2f7&center=true&vCenter=true&width=500&lines=Fullstack+%26+Automation+Developer;TypeScript+%7C+Node.js+%7C+Python;Building+offline-first+apps+%26+tools" alt="Typing SVG" />
 </p>
 
----
+<!-- Стек технологий в едином монолитном блоке -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,py,discord,git,linux,bash&theme=dark" alt="Tech Stack" />
+</a>
 
-### Стек и инструменты
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+<br/>
 
----
+### ⚙️ Спецификация разработчика
 
-### Статистика GitHub
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ParadoxUX&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ParadoxUX&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</p>
-### 🐍 Активность
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ParadoxUX/ParadoxUX/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ParadoxUX/ParadoxUX/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/ParadoxUX/ParadoxUX/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
+```yaml
+Developer: ParadoxUX
+Core Focus: Backend, Automation & Offline-first Web Apps
+Primary Stack: TypeScript, JavaScript, Node.js, Git
+Architecture: Modular, Event-driven, Fast execution
+Status: Actively shipping projects :)
